@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @amaanm1
+- 👀 I’m interested in Software Engineering. Specifically game development and full-stack engineering.
+- 🌱 I’m currently learning C++ and Unreal Engine game development.
+- 📫 How to reach me E:amaan.munir1@hotmail.com
